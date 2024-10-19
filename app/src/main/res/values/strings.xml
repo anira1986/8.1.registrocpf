@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registrar Pessoa</string>
+    <string name="cpf">CPF</string>
+    <string name="nome">Nome</string>
+    <string name="ver_registro">Ver Registro</string>
+    <string name="voltar">Voltar</string>
+</resources>
